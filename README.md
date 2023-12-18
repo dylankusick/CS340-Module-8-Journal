@@ -1,1 +1,15 @@
 # CS340-Module-8-Journal
+
+
+    How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
+Writing programs that are maintainable, readable, and adaptable are made with a strong foundation. Like many things, a strong foundation with planning provides one of the best pathways to success. I found that when working on the CRUD Python module from Project One, I really needed that foundation due to the fact that it was such a large task for me to accomplish. Because I came from a point where I knew nothing about databases, it was necessary to make sure my large project could actually be functional in the end. We were able to take each week step by step, starting off with making the steps to the Python module, and then moving on to the testing of the functionality of these methods. The advantages were that it allowed me to zone in on specific aspects of the project, instead of facing the large task all at once. This python module could be used to create, read, update, and delete items from databases in the future. 
+
+
+    
+    How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
+As mentioned above, as a computer scientist, I like to approach each problem one step at a time. I was able to work through each of my problems individually, whether it was a a syntax error, or an import statement not working the way that it should have been. If needed, looking at documentation was the step that seemed to be the most helpful. The documentation is like looking at the instruction manual, sometimes you need it, not everyone knows how to build a multi-step project without reading some instructions. This was different from other projects because it utilized the terminal. All of the other projects that I have done in the past were all based strictly inside of an IDE. In the future, I will definitely be looking at how I can utilize a variety of different databases to ensure the clients requests are met. 
+
+
+    
+    What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+Computer sceintists look at a software problem or request, and utilize their knowledge of design plans, coding, databases, and documentation to solve those problems or requests. This type of project would help a company to stay more organized, and help them to become more efficent. Over time, companies like Grazioso would begin to expand on what they are capable of in their day to day tasks. 
